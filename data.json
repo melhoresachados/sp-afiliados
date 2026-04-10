@@ -2,7 +2,7 @@
   "account": "shopee",
   "account_name": "Achados Shopee",
   "theme_color": "#EE4D2D",
-  "updated_at": "2026-04-10T19:04:13.102513",
+  "updated_at": "2026-04-10T19:22:49.671546",
   "products": [
     {
       "num": 7,
@@ -28,5 +28,6 @@
       "image_url": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsok3uoklp2zcc@resize_w450_nl.webp",
       "published_at": "2026-04-08 22:13:53"
     }
-  ]
+  ],
+  "theme_text_color": "#FFFFFF"
 }
