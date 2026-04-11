@@ -2,7 +2,7 @@
   "account": "shopee",
   "account_name": "Achados Shopee",
   "theme_color": "#EE4D2D",
-  "updated_at": "2026-04-11T02:41:45.616137",
+  "updated_at": "2026-04-11T16:13:08.889046",
   "products": [
     {
       "num": 8,
@@ -10,7 +10,7 @@
       "price": "R$35,06",
       "affiliate_url": "https://s.shopee.com.br/1LbjjrCKiu",
       "image_url": "images/produto_8.webp",
-      "published_at": "2026-04-11 02:41:35"
+      "published_at": "2026-04-11 16:13:04"
     },
     {
       "num": 7,
