@@ -2,8 +2,16 @@
   "account": "shopee",
   "account_name": "Achados Shopee",
   "theme_color": "#EE4D2D",
-  "updated_at": "2026-04-10T19:22:49.671546",
+  "updated_at": "2026-04-11T00:41:12.561700",
   "products": [
+    {
+      "num": 8,
+      "name": "Calça Skinny Com Cinto Malha Crepe Cintura Alta",
+      "price": "R$35,06",
+      "affiliate_url": "https://s.shopee.com.br/1LbjjrCKiu",
+      "image_url": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lym8c7hpuuqtb5@resize_w450_nl.webp",
+      "published_at": "2026-04-11 00:41:10"
+    },
     {
       "num": 7,
       "name": "Vestido Camponesa Regata Feminino Com Elástex nas Costas Fenda Lateral Rodado Florido Regulável",
