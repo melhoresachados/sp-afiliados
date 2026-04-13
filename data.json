@@ -2,7 +2,7 @@
   "account": "shopee",
   "account_name": "Happy Day Ofertas",
   "theme_color": "#EE4D2D",
-  "updated_at": "2026-04-13T10:44:04.470581",
+  "updated_at": "2026-04-13T10:47:04.147453",
   "products": [
     {
       "id": "7b299db1-3651-4e71-93f8-c764bb09309c",
@@ -19,5 +19,5 @@
     }
   ],
   "theme_text_color": "#FFFFFF",
-  "header_banner_url": ""
+  "header_banner_url": "images/header-banner.png"
 }
