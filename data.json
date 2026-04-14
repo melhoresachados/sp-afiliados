@@ -2,8 +2,22 @@
   "account": "shopee",
   "account_name": "Happy Day Ofertas",
   "theme_color": "#EE4D2D",
-  "updated_at": "2026-04-13T14:51:19.947176",
-  "products": [],
+  "updated_at": "2026-04-14T03:17:02.326205",
+  "products": [
+    {
+      "id": "7b299db1-3651-4e71-93f8-c764bb09309c",
+      "num": 1,
+      "name": "Calça Skinny Com Cinto",
+      "price": "",
+      "affiliate_url": "https://s.shopee.com.br/1LbjjrCKiu",
+      "image_url": "https://pub-971b79479fa9403d85ad248676016997.r2.dev/shopee/images/produto_1_cal-a-skinny-com-cinto.webp",
+      "badge_text": "Cupom Disponivel!",
+      "has_coupon": true,
+      "is_flash": true,
+      "is_popular": true,
+      "published_at": "2026-04-14 02:54"
+    }
+  ],
   "theme_text_color": "#FFFFFF",
   "header_banner_url": "images/header-banner.png"
 }
