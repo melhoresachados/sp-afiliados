@@ -2,21 +2,8 @@
   "account": "shopee",
   "account_name": "Happy Day Ofertas",
   "theme_color": "#EE4D2D",
-  "updated_at": "2026-04-15T11:20:59.099179",
+  "updated_at": "2026-04-15T12:21:09.033759",
   "products": [
-    {
-      "id": "2645e31c-faac-407f-b450-ed63ea018975",
-      "num": 2,
-      "name": "Celular Xiaomi Poco X8",
-      "price": "",
-      "affiliate_url": "https://s.shopee.com.br/6pwnO8olQW",
-      "image_url": "https://down-br.img.susercontent.com/file/sg-11134201-8260v-mlnuyg2oo1z46e@resize_w450_nl.webp",
-      "badge_text": "Cupom Disponivel!",
-      "has_coupon": true,
-      "is_flash": true,
-      "is_popular": true,
-      "published_at": "2026-04-15 11:20"
-    },
     {
       "id": "7b299db1-3651-4e71-93f8-c764bb09309c",
       "num": 1,
